@@ -4,7 +4,7 @@ This is a simple template for a CV (Curriculum Vitae) designed using HTML and CS
 ## Getting Started
 To use this template, simply clone the repository to your local machine using the following command:
 
-```https://github.com/your-username/cv-template.git```
+```https://github.com/Muneeb-Ahmad-Ch/cv_template_html_css.git```
 
 Once you have cloned the repository, you can edit the content of the HTML and CSS files to include your own information.
 
